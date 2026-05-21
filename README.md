@@ -1,3 +1,5 @@
-# Employee-salary-analysis-pandas
-Employee salary analysis project using Python, Pandas, and Matplotlib 
-to explore salary trends, job roles, and compensation patterns.
+#Employee Salary Analysis Using Python Pandas
+#Project Overview
+
+This project analyzes employee salary data using Python, Pandas, and Matplotlib.
+The objective is to explore salary distribution, compensation trends, and job role insights through data analysis and visualization techniques.
